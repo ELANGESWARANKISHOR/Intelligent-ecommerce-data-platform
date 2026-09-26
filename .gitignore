@@ -1,0 +1,17 @@
+# Raw datasets
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Spark
+*.log
